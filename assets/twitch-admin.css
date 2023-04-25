@@ -1,0 +1,13 @@
+/* Admin Panel CSS */
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h2 {
+    color: #9146ff;
+}
+
+input[type="text"] {
+    border: 1px solid #9146ff;
+    padding: 5px;
+}

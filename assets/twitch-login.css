@@ -1,0 +1,20 @@
+/* Template Page CSS */
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.twitch-login-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.twitch-login-container h2 {
+    color: #9146ff;
+}
+
+.twitch-login-container a {
+    display: inline-block;
+    margin-top: 10px;
+}
